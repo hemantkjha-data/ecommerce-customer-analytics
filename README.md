@@ -1,3 +1,5 @@
+**Live Dashboard:** https://hemantkjha-data.github.io/ecommerce-customer-analytics/dashboard/
+
 # 🛒 E-Commerce Customer Analytics — RFM Segmentation
 
 **Business question:** *Which customers drive our revenue, which are slipping away, and where should CRM spend go?*
